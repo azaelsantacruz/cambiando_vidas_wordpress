@@ -1,0 +1,26 @@
+
+
+/* created for browse homes wordpress plugin */
+
+
+
+.contact_details {border-left: solid 0px #999999; margin-bottom:5px;}
+
+#home_form_table td {vertical-align: top;}
+
+#contact_details_preview {position:absolute; z-index:999;}
+
+.control_text {font-weight:bold; cursor:pointer;}
+
+.video_embed_code{
+    width: 377px; height: 111px;
+}
+
+.section_title{
+    font-size: 20px; font-weight: bold;
+}
+
+.tool_tip{
+    font-size: 10px; font-weight: bold;
+}
+
