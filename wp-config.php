@@ -23,16 +23,16 @@ define('W3TC_EDGE_MODE', true); // Added by W3 Total Cache
 // ** MySQL settings - You can get this info from your web host ** //
 
 /** El Nombre de la Base de datos  */
-define('DB_NAME', 'burocreativo_cavi'); 
+define('DB_NAME', ''); 
 
 /** Nombre de usuario con privilegios sobre la base de datos */
-define('DB_USER', 'azael'); 
+define('DB_USER', ''); 
 
 /** Contase単a que utiliza el usuario para conectarse a la Base de Datos */
-define('DB_PASSWORD', 'optiplex');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.server308.com');
+define('DB_HOST', '');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
