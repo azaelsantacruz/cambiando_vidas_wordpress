@@ -1,0 +1,1 @@
+[23-May-2016 14:43:05 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/cambiued/public_html/wp-content/plugins/hello.php on line 60
