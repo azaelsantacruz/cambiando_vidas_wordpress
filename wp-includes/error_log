@@ -1,0 +1,27 @@
+[14-Apr-2016 02:59:00 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[16-Apr-2016 01:18:35 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[18-Apr-2016 02:15:57 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[07-May-2016 23:22:57 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[09-May-2016 01:20:19 Etc/GMT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cambiued/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[09-May-2016 22:53:04 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[12-May-2016 06:04:10 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[14-May-2016 00:09:30 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[16-May-2016 00:39:59 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[18-May-2016 01:57:31 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[18-May-2016 03:59:48 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[18-May-2016 17:03:05 Etc/GMT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cambiued/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[20-May-2016 05:12:28 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[20-May-2016 07:53:13 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[22-May-2016 07:34:42 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[22-May-2016 08:43:18 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[24-May-2016 00:51:08 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[26-May-2016 01:52:08 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[27-May-2016 21:14:58 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[29-May-2016 19:23:56 Etc/GMT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cambiued/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[30-May-2016 04:40:32 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[30-May-2016 04:42:16 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[01-Jun-2016 05:00:16 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[01-Jun-2016 05:27:35 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[02-Jun-2016 22:28:30 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[05-Jun-2016 05:01:37 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
+[05-Jun-2016 06:46:44 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/cambiued/public_html/wp-includes/vars.php on line 23
