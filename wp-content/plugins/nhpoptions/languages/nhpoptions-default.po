@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NHPOptions\n"
+"POT-Creation-Date: 2014-09-25 10:32+0100\n"
+"PO-Revision-Date: 2014-09-25 10:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: pebas <pebasdesign@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\gorising\\wp-content\\plugins"
+"\\nhpoptions\n"
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:60
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:62
+msgid "Options"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:74
+msgid "<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:266
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:267
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:693
+msgid "Import / Export"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:291
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:292
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:711
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:791
+msgid "Dev Mode Info"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:344
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:659
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:816
+msgid "Reset to Defaults"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:665
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:667
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:671
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:672
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:674
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:729
+msgid "Import / Export Options"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:731
+msgid "Import Options"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:739
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:752
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:761
+msgid "Import"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:761
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:764
+msgid "Export Options"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/nhpoptions.php:766
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/mapmarker/field_mapmarker.php:52
+msgid "Add New Map Marker"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/multi_text/field_multi_text.php:39
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/multi_text/field_multi_text.php:46
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\nhpoptions/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
