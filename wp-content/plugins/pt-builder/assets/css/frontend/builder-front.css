@@ -1,0 +1,78 @@
+
+.no-padding {
+	padding: 0;
+}
+/* ===========================================================================================
+-------------------------------  E L E M E N T S  S T Y L I N G  -----------------------------
+============================================================================================== */
+/*CAROUSEL*/
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+    filter: none;
+}
+.carousel-indicators {
+	display: block;
+	width: 100%;
+	left: 0;
+	bottom: -20px;
+} 
+.carousel-indicators li, .carousel-indicators li.active{
+	margin: 0 5px;
+}
+
+/*TABS*/
+.tabs-left, .right {
+	border-bottom: none;
+}
+
+.nav-tabs.right li, .nav-tabs.tabs-left li {
+	float: none;
+	margin: 0;
+}
+
+.nav-tabs.tabs-left li.active a, .nav-tabs.tabs-left li.active a:focus, .tabs-left li.active a:hover {
+	border: 1px solid #ddd;
+	border-right: transparent;
+}
+.nav-tabs.tabs-left li a {
+	border-right: 1px solid #ddd;
+	border-bottom: transparent;
+	margin-top: -1px;
+	border-radius: 0;
+}
+
+.nav-tabs.right li.active a, .nav-tabs.right li.active a:focus, .nav-tabs.right li.active a:hover {
+	border: 1px solid #ddd;
+	border-left: transparent;
+}
+.nav-tabs.right li a {
+	border-left: 1px solid #ddd;
+	border-bottom: transparent;
+	margin-top: -1px;
+	border-radius: 0;
+}
+/*SOCIAL*/
+.pt-social a {
+	padding: 0 6px;
+}
+/*IMAGE*/
+.pt-image img {
+	border-radius: 0;
+	box-shadow: none;
+}
+/*DROPCAP*/
+.dropcap p:first-letter {
+	font-size: 44px;
+	font-weight: 800;
+	float: left;
+	line-height: 40px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
+}
+/*IMAGES*/
+.carousel img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
