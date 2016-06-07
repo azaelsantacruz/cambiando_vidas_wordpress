@@ -1,0 +1,532 @@
+/*
+Theme Name: Gorising
+Theme URI: http://demo.swebdesignstudio.com/themes/couponer/
+Description: Coupons & Discounts WP Theme - by pebas
+Author: pebas
+Author URI: http://themeforest.net/user/pebas/
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.0
+Tags: white
+
+*/
+
+/***********************************
+TABLE OF CONTENTS:
+
+1. OVERALL STYLING
+2. SECTIONS
+3. BLOG POSTS
+4. DEFAULT NAV
+5. HEADER
+6. TOP BAR
+7. MAIN SLIDER
+8. BOX STYLE
+9. UPCOMING EVENT
+10. PROMO BOXES
+11. CONTENT HEADINGS
+12. BOXES
+13. IMAGE OVERLAY
+14. BLACK AND WHITE IMAGES
+15. ARROW ICON ON HOVER
+16. PROGRESS BARS
+17. BUTTONS
+18. TOOLTIPS
+19. FORMS
+20. WIDGETS
+21. DROPDOWN
+22. EVENTS
+23. GALLERY
+24. SHOP
+25. FOOTER
+26. PAGINATION
+27. MAP
+28. CALENDAR 
+29. RESPONSIVENESS
+30. DEFAULT UNIT TEST
+
+*************************************/
+
+/* 1. OVERALL STYLING ******/
+
+/* body */
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+/* links */
+
+a:focus {
+    outline-offset: 2px;
+}
+.content.single blockquote cite, .content blockquote cite {
+    text-align: left;
+}
+blockquote {
+    border-right: none;
+    padding: 0px 50px 0px 30px;
+}
+blockquote:before {
+    right: 15px;
+}
+/* tabs */
+
+.nav-tabs>li>a {
+    margin-left: 2px;
+}
+/* vertical tabs */
+
+.nav-tabs.left, .tabs-left {
+    border-left: 0px solid #eeeded
+}
+.nav-tabs.right, .tabs-right {
+    border-right: 0px solid #eeeded
+}
+.tabs-left>li {
+    margin-left: -1px
+}
+.tabs-right>li {
+    margin-right: -1px
+}
+.tabs-left>li.active>a, .tabs-left>li.active>a:focus, .tabs-left>li.active>a:hover {
+    border-left-color: transparent
+}
+.tabs-right>li.active>a, .tabs-right>li.active>a:focus, .tabs-right>li.active>a:hover {
+    border-right-color: transparent
+}
+.tabs-right>li>a {
+    border-radius: 0;
+    margin-left: 0
+}
+/* 2. SECTIONS *****************/
+
+/* breadcrumbs */
+
+.breadcrumb {
+    text-align: right;
+}
+.breadcrumbs h4 {
+    text-align: right;
+    float: left;
+}
+/* carousel */
+
+.carousel.single-page:hover a.carousel-control.left {
+    right: 3%;
+}
+.carousel.single-page:hover a.carousel-control.right {
+    left: 3%;
+}
+/* tags */
+
+/* 4. DEFAULT NAV SETTINGS */
+
+.pt-nav ul li {
+    float: right;
+}
+.pt-nav ul li ul li ul {
+    right: 178px;
+}
+.languages .pt-nav ul li {
+    float: left;
+    margin-right: 15px;
+}
+/* 5. HEADER ******************/
+
+.main-nav {
+    text-align: right;
+}
+.main-nav .pt-nav {
+    text-align: right;
+}
+.main-nav .pt-nav-trigger button i {
+    padding-left: 10px;
+}
+.button {
+    margin-right: 20px;
+}
+/* 6. TOP BAR *********************/
+
+.top-bar i {
+    padding-left: 5px;
+}
+.languages .pt-nav ul li a {
+    padding: 0px 0px 0px 20px;
+}
+.top-nav {
+    text-align: right;
+}
+.add-info {
+    text-align: right;
+}
+/* 7. MAIN SLIDER ***********************/
+
+.carousel .active.left, .carousel .active.right {
+    right: 0;
+    z-index: 1;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.carousel .next, .carousel .prev {
+    right: 0;
+    z-index: 999;
+}
+/* Carouse Indicator */
+
+.carousel-indicators li {
+    text-indent: 999px;
+}
+/* woo commerce */
+
+ul.wcml_currency_switcher.curr_list_horizontal li {
+    float: left;
+    margin-left: 10px;
+}
+/* shop carousel indicators */
+
+.carousel-indicators.shop {
+    margin-left: 0;
+}
+/* slider content */
+
+/* 8. BOX STYLE ********************/
+
+/* 9. UPCOMING EVENT *******************/
+
+.upcoming-event div {
+    float: right;
+}
+.event-icon {
+    border-left: 1px solid #eeeeee;
+}
+.event-counter ul li {
+    border-left: 1px solid #eeeeee;
+    margin-right: -3px;
+}
+.event-counter ul li:first-child {
+    border-right: 1px solid #eeeeee;
+}
+.event-counter ul li:last-child {
+    border-left: 0px solid #eeeeee;
+}
+/* up event single */
+
+.upcoming-event.single .event-icon {
+    border-left: none;
+}
+.upcoming-event.single .event-counter ul li {
+    border-right: none;
+    margin-right: 0px;
+}
+/* 10. PROMO BOXES *******************/
+
+.promo-box.middle {
+    border-right: 1px solid #eeeeee;
+    border-left: 1px solid #eeeeee;
+}
+/* 11. CONTENT HEADINGS - TITLES ********/
+
+.carousel-control-heading a.carousel-control.left {
+    right: initial;
+    left: 0;
+}
+.carousel-control-heading a.carousel-control.right {
+    right: initial;
+    left: 27px;
+}
+/* Fade transition for carousel items */
+
+.carousel.normal .item {
+    right: 0;
+}
+.input-group-addon:last-child {
+    border-right: 0;
+    border-left: 1px solid #eeeeee;
+}
+/* 15. ICON ON HOVER **************************/
+
+.media a:before {
+    left: -30px;
+}
+.media a:hover:before {
+    left: 10px;
+}
+/* 16.PROGRESS BARS *********************/
+
+.slider.slider-horizontal .slider-track {
+    right: 0;
+}
+.slider.slider-horizontal .slider-handle {
+    margin-right: 0;
+}
+/* slider single */
+
+.slider-content.cause .slider.slider-horizontal .slider-track {
+    right: 0;
+}
+/* 17. BUTTONS ************************/
+
+.button-normal.left-text, .button-normal.full.left-text {
+    text-align: right;
+}
+
+/* 19. FORMS ******************/
+
+/* donate form */
+
+.donate-form label {
+    margin-left: 13px;
+}
+/* 20. WIDGETS ****************/
+
+/* search & categories */
+
+.widget ul li a:hover i {
+    margin-left: 5px;
+}
+/* share widget */
+
+.widget-share .widget-box ul li {
+    border-left: 1px solid #eeeeee;
+    float: right;
+}
+.widget-share .widget-box ul li:last-child {
+    border-left: none;
+}
+.widget-share .widget-box ul li a:hover i {
+    margin-left: 0;
+}
+/* widget events */
+
+.widget-event .box {
+    padding: 20px 40px 1px 15px;
+    position: relative;
+    overflow: hidden;
+}
+.widget-event p {
+    text-align: right;
+}
+.widget-event .box.date:before {
+    content: "";
+    left: -20px;
+    top: 10px;
+}
+.widget-event .box.time:before {
+    right: -12px;
+}
+.widget-event .box.location:before {
+    left: -5px;
+}
+/* 21. DROPDOWN ***********************/
+
+.dropdown-menu {
+    right: 0;
+    float: right;
+}
+.embed-container iframe, .embed-container object, .embed-container embed {
+    right: 0;
+}
+/* 23. GALLERY **************/
+
+.gallery .media a:before {
+    left: -40px;
+}
+.gallery .media a:hover:before {
+    left: 10px;
+}
+/* 24. SHOP ********************/
+
+/* sale tag */
+
+.sale {
+    right: 0;
+}
+/* meta */
+
+.pull-right {
+    float: left !important;
+}
+.pull-left {
+    float: right !important;
+}
+.meta a.cart {
+    margin-right: 10px;
+}
+/* 28. CALENDAR ****************/
+
+#shareModal .overlay-content ul li a i {
+    font-size: 32px;
+}
+.woocommerce a.added_to_cart, .woocommerce-page a.added_to_cart {
+    float: left;
+    margin-right: 7px;
+}
+/* 29. RESPONSIVENESS ****************/
+
+@media screen and (max-width: 768px) {
+    .pt-nav ul li ul, .pt-nav ul li ul li ul {
+        position: relative;
+        min-width: 100%;
+        top: inherit;
+        right: 0;
+    }
+    .main-nav {
+        text-align: right;
+    }
+    .main-nav .pt-nav-trigger button {
+        text-align: right;
+    }
+    .main-nav .pt-nav ul li a {
+        padding-right: 10px;
+    }
+    .main-nav .pt-nav ul li ul li:first-child a {
+        padding-right: 20px;
+    }
+    .main-nav .pt-nav ul li ul li a {
+        padding-right: 20px;
+    }
+    .main-nav .pt-nav ul li {
+        margin-right: 0;
+    }
+    .main-nav .pt-nav ul li.button a {
+        padding-right: 0px;
+        margin-right: 0;
+    }
+    /* languages responsiveness */
+    .languages {
+        margin-left: 10px;
+    }
+    .languages .pt-nav ul li {
+        padding-right: 18px;
+    }
+    .languages .pt-nav ul li ul li {
+        padding-right: 0px;
+    }
+    .languages .pt-nav-trigger button {
+        text-align: right;
+    }
+    .top-nav .pt-nav-trigger button {
+        text-align: right;
+    }
+    .event-counter ul li {
+        border-right: none;
+        margin-right: -3px;
+    }
+    .promo-box.middle {
+        border-right: none;
+        border-left: none;
+    }
+    .carousel:hover a.carousel-control.left {
+        right: 3%;
+    }
+    .carousel:hover a.carousel-control.right {
+        left: 3%;
+    }
+}
+/* 30. DEFAULT UNIT TEST  ******/
+
+/* Widget Lists */
+
+.menu-testing-menu-container ul {
+    padding-right: 0;
+}
+.menu-testing-menu-container ul li ul.sub-menu {
+    padding-right: 10px;
+}
+/* Archives Lists */
+
+.widget-search-causes ul {
+    padding-right: 0;
+}
+/* Calendar */
+
+#wp-calendar caption {
+    text-align: right;
+}
+/* Video Frames */
+
+.video-container iframe, .video-container object, .video-container blockquote, .video-container embed {
+    right: 0;
+}
+/* Search Bar */
+
+.waiting-overlay {
+    top: 0px;
+    right: 0px;
+}
+/* WP CORE */
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+.aligncenter, div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%;
+    /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+.sticky {
+    border-top: 3px solid #00acc1;
+}
+.gallery-caption {} .bypostauthor {}
