@@ -1,0 +1,3093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GoRising\n"
+"POT-Creation-Date: 2014-12-16 11:01+0100\n"
+"PO-Revision-Date: 2014-12-16 11:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: pebas <pebasdesign@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\gorising\\wp-content\\themes"
+"\\gorising\n"
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/404.php:17
+msgid "404 Error Page"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/404.php:18
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/404_text.php:7
+msgid "Sorry we can't find what you are looking for!"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/404.php:27
+msgid "Try to use our search to find what you looking for"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/404.php:29
+#: C:\wamp\www\gorising\wp-content\themes\gorising/searchform.php:5
+msgid "Type term here"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:28
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:32
+msgid "0 comments"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:32
+msgid "1 comment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:32
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:99
+msgid "Leave Comment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:112
+msgid "Send Comment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:116
+msgid "Your Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:120
+msgid "Your Email"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:125
+msgid "Your comment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/comments.php:128
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/footer.php:95
+msgid "Close"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/footer.php:96
+msgid "Share"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:94
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:95
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:96
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:97
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:108
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:109
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:171
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:110
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:130
+msgid "Gorising Options"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:131
+msgid "Gorising Settings"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:140
+msgid "Overall"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:142
+msgid ""
+"This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:149
+msgid "Left To Right"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:150
+msgid "Right To Left"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:152
+msgid "Site Text Direction"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:153
+msgid "Select site text direction"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:160
+msgid "Site Favicon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:161
+msgid ""
+"Please upload favicon here in PNG or JPG format. <small>(18px 18px maximum "
+"size recommended)</small>)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:167
+msgid "Site Top Logo"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:168
+msgid "Upload top site logo"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:174
+msgid "Site Bottom Logo"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:175
+msgid "Upload bottom site logo"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:181
+msgid "Contact Text"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:182
+msgid "<br />Input contact phone which will be displayed in the top blue line."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:188
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:542
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:578
+msgid "Contact Email"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:189
+msgid "<br />Input contact email which will be displayed in the top blue line."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:196
+msgid "Blog 3 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:197
+msgid "Blog 2 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:198
+msgid "Blog 4 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:199
+msgid "Blog 3 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:200
+msgid "Blog 2 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:201
+msgid "Blog 3 Columns With Sidebar And Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:202
+msgid "Blog 2 Columns With Sidebar And Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:203
+msgid "Blog 4 Columns Full width And With Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:204
+msgid "Blog 3  Columns Full Width And With Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:205
+msgid "Blog 2  Columns Full width And With Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:206
+msgid "Masonry With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:208
+msgid "Blog Layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:209
+msgid "Select blog listing layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:217
+msgid "Cause 4 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:218
+msgid "Cause 3 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:219
+msgid "Cause 2 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:220
+msgid "Cause 3 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:221
+msgid "Cause 2 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:223
+msgid "Cause Layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:224
+msgid "Select cuase listing layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:232
+msgid "Event Calendar Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:233
+msgid "Event Calendar Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:234
+msgid "Event 3 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:235
+msgid "Event 2 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:236
+msgid "Event 3 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:237
+msgid "Event 2 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:238
+msgid "Event 4 Columns Full Width No Media"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:239
+msgid "Event 3 Columns With Sidebar No Media"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:241
+msgid "Event Layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:242
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:262
+msgid "Select event listing layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:250
+msgid "Gallery 4 Columns With Sidebar And Caption"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:251
+msgid "Gallery 3 Columns With Sidebar And Caption"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:252
+msgid "Gallery 2 Columns With Sidebar And Caption"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:253
+msgid "Gallery 3 Columns Full Width With Caption"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:254
+msgid "Gallery 4 Columns Full Width With Caption"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:255
+msgid "Gallery 4 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:256
+msgid "Gallery 3 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:257
+msgid "Gallery 2 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:258
+msgid "Gallery 3 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:259
+msgid "Gallery 2 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:261
+msgid "Gallery Layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:269
+msgid "Shop Layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:271
+msgid "Shop 2 Columns With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:272
+msgid "Shop 3 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:273
+msgid "Shop 2 Columns Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:275
+msgid "<br />Select shop layout."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:281
+msgid "Footer Copyrights"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:282
+msgid "<br />Input footer copyrights."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:293
+msgid "SEO"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:295
+msgid "This is important part for search engines."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:301
+msgid "Keywords"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:302
+msgid ""
+"<br />Type here website keywords separated by comma. <small>(eg. lorem, "
+"ipsum, adiscipit)</small>."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:309
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:116
+msgid "Description"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:310
+msgid "<br />Type here website description."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:321
+msgid "Subscription"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:323
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:329
+msgid "API Key"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:330
+msgid "<br />Type your mail chimp api key."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:336
+msgid "List ID"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:337
+msgid "<br />Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:346
+msgid "Social"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:348
+msgid "Set links to social networks in th footer."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:354
+msgid "Facebook link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:355
+msgid "Input link to Facebook."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:362
+msgid "Twitter link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:363
+msgid "Input link to Twitter."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:370
+msgid "Google + link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:371
+msgid "Input link to Google+."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:383
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:385
+msgid "Appearance settings."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:390
+msgid "Select Font"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:391
+msgid "<br />Select site main fobnt."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:398
+msgid "Main Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:399
+msgid "<br />Select site main color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:404
+msgid "Preload Icon Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:405
+msgid "<br />Select preload icon color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:410
+msgid "Preload Background Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:411
+msgid "<br />Select preload background color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:416
+msgid "Background Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:417
+msgid "<br />Select background color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:421
+msgid "Background Image"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:422
+msgid "<br />Select background image."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:428
+msgid "Box Style"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:429
+msgid "<br />Select style of the boxes."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:431
+msgid "Square"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:432
+msgid "Rounded"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:438
+msgid "Borders"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:439
+msgid "<br />Enable or disable borders."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:441
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:284
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:218
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:127
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:138
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:149
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:442
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:283
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:217
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:128
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:139
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:150
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:448
+msgid "Max Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:449
+msgid "<br />Select content max width."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:460
+msgid "PayPal Settings"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:462
+msgid "PayPal settings."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:467
+msgid "PayPal mode"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:468
+msgid "<br />select paypal mode."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:470
+msgid "Live mode"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:471
+msgid "Testing mode"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:477
+msgid "Main Donation Unit"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:478
+msgid "<br />Input main donation unit."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:483
+msgid "Main Donation Unit Abbreviation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:484
+msgid "<br />Input main donation unit abbreviation."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:488
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1275
+msgid "Unit Position"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:489
+msgid "<br />Select position of the unit."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:492
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1278
+msgid "Front"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:493
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1279
+msgid "Back"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:499
+msgid "Donation Amounts"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:500
+msgid ""
+"<br />Input predefined donations for the donation page separated with the "
+"new line."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:505
+msgid "Paypal API Username"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:506
+msgid "<br />Input paypal API username here."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:511
+msgid "Paypal API Password"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:512
+msgid "<br />Input paypal API password here."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:517
+msgid "Paypal API Signature"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:518
+msgid "<br />Input paypal API signature here."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:529
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:531
+msgid "Contact page settings."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:536
+msgid "Form Title"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:537
+msgid "<br />Input title of for the contact form."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:543
+msgid "<br />Input email where the messages should arive."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:548
+msgid "Contact Subject"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:549
+msgid "<br />Input subject for the message which will arrive to you."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:554
+msgid "Contact Addition Info Text"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:555
+msgid "<br />Input addition text for the contact in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:560
+msgid "Contact Address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:561
+msgid "<br />Input address in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:566
+msgid "Contact Phone"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:567
+msgid "<br />Input phone in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:572
+msgid "Contact Fax"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:573
+msgid "<br />Input fax in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:579
+msgid "<br />Input email in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:584
+msgid "Contact Web"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:585
+msgid "<br />Input web in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:590
+msgid "Contact Map"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:591
+msgid "<br />Input map link to embed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:608
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:614
+msgid "Appears on the right side of the blog listing, and blog posts."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:618
+msgid "Shop Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:624
+msgid "Appears on the right side of the shop."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:628
+msgid "Page Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:634
+msgid "Appears on the right side of the pages."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:644
+msgid "Events"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:645
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:134
+msgid "Event"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:659
+msgid "Event Tags"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:662
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:664
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:703
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:705
+msgid "Tags"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:663
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:704
+msgid "Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:665
+msgid "All Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:666
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:707
+msgid "Edit Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:667
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:708
+msgid "View Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:668
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:709
+msgid "Update Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:669
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:710
+msgid "Add New Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:670
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:711
+msgid "New Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:671
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:712
+msgid "Parent Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:672
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:713
+msgid "Parent Tag:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:673
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:714
+msgid "Search Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:674
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:715
+msgid "Popular Tag"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:675
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:716
+msgid "Separate tags with commas"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:676
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:717
+msgid "Add or remove tags"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:677
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:718
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:678
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:719
+msgid "No tags found"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:684
+msgid "Causes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:685
+msgid "Cause"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:700
+msgid "Cause Tags"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:706
+msgid "All Tags"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:725
+msgid "Cause Catergories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:728
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:730
+msgid "Catergories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:729
+msgid "Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:731
+msgid "All Catergories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:732
+msgid "Edit Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:733
+msgid "View Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:734
+msgid "Update Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:735
+msgid "Add New Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:736
+msgid "New Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:737
+msgid "Parent Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:738
+msgid "Parent Catergory:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:739
+msgid "Search Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:740
+msgid "Popular Catergory"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:741
+msgid "Separate catergories with commas"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:742
+msgid "Add or remove catergories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:743
+msgid "Choose from the most used catergories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:744
+msgid "No catergories found"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:750
+msgid "Galleries"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:751
+msgid "Gallery"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:765
+msgid "Clients"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:766
+msgid "Client"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:779
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:780
+msgid "FAQ"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:793
+msgid "Donations"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:794
+msgid "Donation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:813
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:814
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1383
+msgid "Amount"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:815
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1294
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:829
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:854
+msgid "Completed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:857
+msgid "Accept Donation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:860
+msgid "Canceled"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:863
+msgid "In Progress"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:949
+msgid "Pending"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1080
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1169
+msgid "Day"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1170
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:138
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:37
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:54
+msgid "Days"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1171
+msgid "Hour"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1172
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:144
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:43
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:60
+msgid "Hours"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1173
+msgid "Minute"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1174
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:150
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:49
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:66
+msgid "Minutes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1175
+msgid "Second"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1176
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:156
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:55
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:72
+msgid "Seconds"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1240
+msgid "Add post images"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1247
+msgid "Post Media"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1255
+msgid "Already Raised"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1260
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1265
+msgid "Unit"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1270
+msgid "Unit Abbreviation ( For example USD or EUR )"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1284
+msgid "Cause Type"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1287
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:221
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:84
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:138
+msgid "Normal"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1288
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:219
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:136
+msgid "Urgent"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1289
+msgid "Raised"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1294
+msgid "Add cause images"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1301
+msgid "Cause Meta"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1309
+msgid "Start Date And Time"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1314
+msgid "End Date And Time"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1319
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:149
+msgid "Time Zone Offset"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1324
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:391
+msgid "Location"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1329
+msgid "Gmap Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1334
+msgid "Add event images"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1341
+msgid "Event Media"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1349
+msgid "Video Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1355
+msgid "Gallery Media"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1363
+msgid "First Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1368
+msgid "Last Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1373
+msgid "Email Address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1378
+msgid "Phone"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1388
+msgid "Cause ID"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1393
+msgid "Comment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1398
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2118
+msgid "Anonimuous"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1403
+msgid "Transaction ID"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1408
+msgid "Transaction Status"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1414
+msgid "Donation Information"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1423
+msgid "Client link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1429
+msgid "Client Info"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1445
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1468
+msgid "Home"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1508
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1509
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1600
+msgid "Loading..."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1600
+msgid "<p>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1601
+msgid "Back To All Events"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1673
+msgid "Name: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1674
+msgid "Email: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1675
+msgid "Message: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1680
+msgid "Your message has been sent. Thank You."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1683
+msgid "There was an unexpecting error while sending your message."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1687
+msgid "Email address is invalid."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1691
+msgid "All fields are required."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1719
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1725
+msgid "You have successuffly subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1730
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1734
+msgid "Check your fields."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1860
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2165
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:133
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:180
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:104
+msgid "by"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1864
+msgid "@"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1870
+msgid "reply"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1911
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1988
+msgid "Donate to organization "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1913
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1990
+msgid "Donate to help the less fortunate ones."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:1957
+msgid "Amount can not be empty"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2036
+msgid "Your donation has been processed successfully. Thank you very much."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2040
+msgid "Cause not found, maybe it is removed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2045
+msgid "URL is malformed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2061
+msgid "Donation has been canceled."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/functions.php:2166
+msgid " ago"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/header.php:28
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/header.php:177
+msgid "Navigation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/header.php:199
+msgid "Donate"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:64
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:80
+msgid "Your name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:73
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:89
+msgid "Your email"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:82
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:98
+msgid "Your message"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:92
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:108
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:115
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:131
+msgid "Additional Info"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:126
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:142
+msgid "Address:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:132
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:148
+msgid "Phone:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:138
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:154
+msgid "Fax:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:144
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:160
+msgid "Email:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact.php:150
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_contact_box.php:166
+msgid "Web:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:41
+msgid "Donate to cause:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:44
+msgid "Donate to all causes."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:88
+msgid "Custom Amount"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:97
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:100
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:110
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-account.php:28
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:113
+msgid "Phone (optional)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:122
+msgid ""
+"If you have any comment for this cause be free to send and it will appear on "
+"recent donators list above your name (optional)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:124
+msgid "240 characters allowed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:130
+msgid "Anonymus donation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:130
+msgid "(do not display my name in public)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/page-tpl_donation.php:138
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:137
+msgid "DONATE"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:106
+msgid "Raised:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:110
+msgid "Goal:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:132
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:179
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:103
+msgid "published"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:134
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:181
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:105
+msgid "in"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:135
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:182
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:106
+msgid "category with"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:137
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:184
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:108
+msgid "comments"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:137
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:184
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:108
+msgid "comment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:208
+msgid "Recent Donations"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:216
+msgid "raised by "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:218
+msgid " people in "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:292
+msgid "Cause added by"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:348
+msgid "to go"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-cause.php:365
+msgid "DONATE NOW"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:118
+msgid "Starts in:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:122
+msgid "Ends in:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:126
+msgid "Event has ended."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:265
+msgid "Event added by"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:320
+msgid "Start Date - End Date"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:331
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:364
+msgid " - "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single-event.php:353
+msgid "Start Time - End Time"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:189
+msgid "Published by"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:275
+msgid "Similar Posts"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/single.php:324
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout1.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout10.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout11.php:43
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout2.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout3.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout4.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout5.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout6.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout7.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout8.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout9.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:98
+msgid "Share Post"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/breadcrumbs.php:15
+msgid "404 Nothing Found"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/breadcrumbs.php:19
+msgid "Code Category: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/breadcrumbs.php:22
+msgid "Search by tag: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/breadcrumbs.php:25
+msgid "Profile"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/breadcrumbs.php:28
+msgid "Archive for:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/breadcrumbs.php:31
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1950
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1950
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/share.php:6
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:65
+msgid "SHARE THIS POST"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/share.php:6
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:77
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:77
+msgid "SHARE THIS CAUSE"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:8
+msgid "Gorising Archives"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:8
+msgid "Gorising Archives Widget"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:12
+msgid "Archives"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:30
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:69
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:278
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:355
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:422
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:503
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:536
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:567
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:45
+msgid "Gorising Categories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:45
+msgid "Gorising Categories Widget"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:93
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:25
+msgid "Categories"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:84
+msgid "Gorising Cause Search"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:84
+msgid "Gorising Cause Search Widget"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:90
+msgid "Cause Search"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:140
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:59
+msgid "Funds Unit"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:142
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:61
+msgid "All"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:192
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:109
+msgid "Type cause name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:217
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:134
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:239
+msgid "Urgency"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:223
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:140
+msgid "Fully Raised"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:238
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:155
+msgid "Funds from"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:253
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:170
+msgid "Age from"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:254
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:171
+msgid "days"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:266
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:491
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:183
+msgid "SEARCH"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:281
+msgid "Search By Units:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:300
+msgid "Gorising Subscribe"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:300
+msgid "Gorising Subscribe Widget"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:305
+msgid "Subscribe"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:312
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:41
+msgid "Type your email address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:323
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:52
+msgid "Type your first name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:333
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:62
+msgid "Type your last name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:343
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:72
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:371
+msgid "Gorising Latest Posts"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:371
+msgid "Gorising Latest Posts Widget"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:376
+msgid "Latest Posts"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:404
+msgid "by "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:425
+msgid "Count:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:442
+msgid "Gorising Price Filter"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:465
+msgid "Price Filter"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:476
+msgid "Price from:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:518
+msgid "Gorising Currency Switcher"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:522
+msgid "Currency Switcher"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:551
+msgid "Gorising Language Switcher"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/widgets.php:556
+msgid "Language Switcher"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout10.php:58
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout6.php:58
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout7.php:58
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout8.php:58
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/blog/layout9.php:58
+msgid "posted by"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/cause/layout1.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/cause/layout2.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/cause/layout3.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/cause/layout4.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/cause/layout5.php:50
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:110
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:110
+msgid "Share Cause"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:37
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:199
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:116
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:131
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:181
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:198
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:103
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:89
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:60
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:95
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:88
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Border.php:47
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:103
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:40
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:152
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:202
+msgid "Element Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:38
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:200
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:117
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:132
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:182
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:199
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:104
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:90
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:61
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:96
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:89
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Border.php:48
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:104
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:41
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:153
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:203
+msgid "Input custom element name for easy recognition."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:44
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:123
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:124
+msgid "Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:45
+msgid "Add link to the element."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:51
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:81
+msgid "Text"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:52
+msgid "Add text to the element."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:58
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:69
+msgid "Target Window"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:59
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:70
+msgid "Select window for opening link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:62
+msgid "Theme Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:63
+msgid "White"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:73
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:127
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:135
+msgid "Same Window"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:74
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:128
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:136
+msgid "New Window"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:80
+msgid "Size"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:81
+msgid "Select button size."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:85
+msgid "Full"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:91
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:224
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:142
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:160
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:202
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:219
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:124
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:110
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:88
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:163
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:130
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Border.php:61
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:156
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:61
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:173
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:245
+msgid "Extra Class"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Button_Custom.php:92
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:225
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:143
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:161
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:203
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:220
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:125
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:111
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:89
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:164
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:131
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Border.php:62
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:157
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:62
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:174
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:246
+msgid "Input extra class for the element."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:206
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:145
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:195
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:212
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:117
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:96
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:74
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Border.php:54
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:117
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:47
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:166
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:216
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:207
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:97
+msgid "Input search cause form title."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:213
+msgid "Search By Units"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Cause_Search.php:214
+msgid "Select if you want to serach the causes by the units also."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:123
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:131
+msgid "Select Target"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:124
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:132
+msgid "Select target for the link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Event_Title.php:135
+msgid "Select event to be displayed."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:138
+msgid "Number Of Images"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:139
+msgid "Input how many images to display."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:146
+msgid "Input element title."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:152
+msgid "Select Images"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Gallery.php:153
+msgid ""
+"Select which images to display (it will override the number of images to "
+"show)."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:188
+msgid "Number Of Blogs"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:189
+msgid "Input how many latest blogs to display."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Blogs.php:196
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:213
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:118
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:167
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:217
+msgid "Input box title."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:205
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:209
+msgid "Number Of Urgent Causes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Causes.php:206
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:210
+msgid "Input how many urgent causes to display."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:110
+msgid "Number Of Products"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Latest_Products.php:111
+msgid "Input how many latest products to display."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:103
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:54
+msgid "Subtitle"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Newsletter.php:104
+msgid "Input search cause form subtitle."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:67
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:68
+msgid "Select promo box icon."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:75
+msgid "Input promo box title."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:82
+msgid "Input promo box text."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:95
+msgid "Border Weight"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:96
+msgid "Input border weight."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:102
+msgid "Border Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Promo_Box.php:103
+msgid "Select Border Color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:102
+msgid "Select Imagess"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:103
+msgid "Select images you want to add to the slider."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:109
+msgid "Image Captions"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:110
+msgid "Add image captions separated with the /next/."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:116
+msgid "Delay"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:117
+msgid ""
+"Set delay between the slides in miliseconds. If the value is 0 than it will "
+"not autoplay."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:123
+msgid "Show Navigation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:124
+msgid "Show or hide navigation bullets."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:134
+msgid "Show Arrows"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:135
+msgid "Show or hide navigation arrows."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:145
+msgid "Show Overlay"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:146
+msgid "Show or hide overlay."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:156
+msgid "Opacity"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Slider.php:157
+msgid "Set image opacity."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:95
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:26
+msgid "Image"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:96
+msgid "Add team member image."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:102
+msgid "Position"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:103
+msgid "Input team member position."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:109
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:110
+msgid "Input team member name."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:117
+msgid "Input team member description."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Team.php:124
+msgid "Input team member link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Border.php:55
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:118
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:48
+msgid "Add title to the element."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:110
+msgid "Select Icon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:111
+msgid "Select icon."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:125
+msgid "Attach link to the title"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:142
+msgid "Input Target Date/Time"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:143
+msgid "Input target date and time."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Counter.php:150
+msgid "input time zone offset in a form +2 or -2."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Title_Subtitle.php:55
+msgid "Add subtitle to the element."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:67
+msgid "at"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:68
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout3.php:36
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout4.php:36
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout5.php:36
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout6.php:36
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout7.php:36
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout8.php:36
+msgid "All Events"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:159
+msgid "Number Of Upcoming Events"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Upcoming_Events.php:160
+msgid "Input how many upcoming events to display."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:223
+msgid "Sort"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:224
+msgid "Select sort order."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:227
+msgid "Ascending"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:228
+msgid "Descending"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:234
+msgid "Sort By"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:235
+msgid "Select how to sort urgent causes."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/elements/PT_Urgent_Causes.php:238
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "January"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "February"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "March"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "April"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "May"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "June"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "July"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "August"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "September"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "October"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "November"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "December"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Mon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Tue"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Wed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Thu"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Fri"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Sat"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout1.php:2
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout2.php:2
+msgid "Sun"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout3.php:35
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout4.php:35
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout5.php:35
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout6.php:35
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout7.php:35
+#: C:\wamp\www\gorising\wp-content\themes\gorising/includes/event/layout8.php:35
+msgid " at "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/content-single-product.php:137
+msgid "Product Description"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart-empty.php:17
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart-empty.php:21
+msgid "Return To Shop"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:27
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-pay.php:19
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:18
+msgid "Product"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:30
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:19
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:35
+msgid "Total"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:119
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:119
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/cart.php:126
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/mini-cart.php:74
+msgid "No products in the cart."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/mini-cart.php:86
+msgid "Subtotal"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/mini-cart.php:97
+msgid "VIEW CART"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/mini-cart.php:98
+msgid "CHECKOUT"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:23
+msgid "Calculate Shipping"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:46
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:52
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:64
+msgid "State / county"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:53
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:73
+msgid "City"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:81
+msgid "Postcode / Zip"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/cart/shipping-calculator.php:86
+msgid "Update Totals"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:91
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/form-login.php:22
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:23
+msgid "Username or email"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/form-login.php:26
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:38
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/form-login.php:35
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:27
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/form-login.php:38
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/global/form-login.php:42
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/add-to-cart.php:15
+msgid "Add To Cart"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/loop/sale-flash.php:16
+msgid "SALE"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-change-password.php:20
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:30
+msgid "New password"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-change-password.php:24
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-change-password.php:29
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-address.php:16
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:19
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-address.php:16
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-edit-address.php:40
+msgid "Save Address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:65
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/rating.php:25
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/add-to-cart/variable.php:84
+msgid "Choose an option"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/add-to-cart/variable.php:132
+msgid "Clear selection"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\themes\gorising/woocommerce/single-product/add-to-cart/variable.php:160
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
